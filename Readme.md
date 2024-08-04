@@ -27,8 +27,7 @@ streamlit run dashboard.py
 ```
 
 ### Screenshots
-<img >
-"C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152038.png"
-<img "C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152054.png">
+<img scr="C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152038.png">
+<img scr="C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152054.png">
 
 
