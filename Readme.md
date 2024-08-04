@@ -29,3 +29,9 @@ streamlit run dashboard.py
 ### Screenshots
 <img src="C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152038.png">
 <img src="C:\Users\aayus\OneDrive\Pictures\Screenshots\Screenshot 2024-08-04 152054.png">
+#image 
+![Screenshot 2024-08-04 152038](https://github.com/user-attachments/assets/21e7617c-60b4-45ad-821c-c3939213386f)
+![Screenshot 2024-08-04 152054](https://github.com/user-attachments/assets/adac659e-d9ca-4d33-b958-a4edb67cad08)
+![Screenshot 2024-08-04 152115](https://github.com/user-attachments/assets/ad7ea702-fa44-4419-9d75-5e2d9f94cdc1)
+
+
