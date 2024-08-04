@@ -4,11 +4,11 @@
 The goal of this project is to analyze the flight dataset and do data visulization of flight delays and top airports we can make a dashbord to represent tha data 
 
 ## Tech Stack
-- python
-- pandas
-- numpy
-- matplotlib
-- streamlit
+-pandas
+-matplotlib
+-seaborn
+-plotly
+-streamlit
 
 ## Installation
 1. Clone the repository
